@@ -6,7 +6,7 @@ title: C.V. Ramamoorthy Award
 <div class="text-center">
   <img class="mx-auto rounded" src="img/ramamoorthy.png"/>
 </div>
-
+<br/>
 
 Dr. C.V. Ramamoorthy (1926-2016) was formerly a professor at the University of California at Berkeley. 
 He was a strong promoter of the field Knowledge Engineering and the founding Editor in Chief of the IEEE Transactions 
