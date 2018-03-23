@@ -12,7 +12,21 @@
 		  
 {% for item in site.data.menu.toc %}		  
 {% if item.submenu[0] %}
-		  prova
+		
+
+<li class="nav-item dropdown show">
+	<a class="nav-link dropdown-toggle" href="#" id="dropdown{{ forloop.index }}" data-toggle="dropdown{{ forloop.index }}" aria-haspopup="true" aria-expanded="true">{{ item.title }}</a>
+	<div class="dropdown-menu " aria-labelledby="dropdown{{ forloop.index }}">
+
+		{% for subitem in item.submenu %}		  
+			<a class="dropdown-item js-scroll-trigger" href="{{ subitem.url }}">{{ subitem.page }}</a>
+		{% endfor %}
+	</div>
+</li>
+		  
+		  
+		  
+		  
 {% else %}
 
 	<li class="nav-item"> 
