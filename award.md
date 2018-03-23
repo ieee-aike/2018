@@ -42,5 +42,5 @@ Nominations for the C.V. Ramamoorthy Award should be submitted to aike@uci.edu b
 - Benjamin Wah, Chinese University of Hong Kong, China  
 - Belle Wei, San Jose State University, USA  
 - Hiroshi Yamaguchi, Chuo University, Japan  
-- Raymond Yeh, IC2 Institute, The University of Texas at Austin, USA
+- Raymond Yeh, IC2 Institute, The University of Texas, Austin, USA
 
