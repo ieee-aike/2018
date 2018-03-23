@@ -1,0 +1,37 @@
+toc:
+  - title: calls
+    submenu:
+      - page: Call for Papers
+        url: ./#cfp
+      - page: Call for Workshops
+        url: ./workshops#call
+      - page: Topics
+        url: ./#topics
+      - page: Important Dates
+        url: ./#dates
+      - page: Submission Instructions
+        url: ./#submission
+  - title: C.V. Ramamoorthy Award
+    url: ./award
+  - title: Attending
+    submenu:
+      - page: Registration
+      - page: Accomodation
+      - page: Travel info
+      - page: Visa info
+  - title: Program
+    submenu:
+      - page: Keynote Speakers
+        url: ./#keynotes
+      - page: Accepted Papers
+      - page: Timetable
+      - page: Welcome Reception
+      - page: Conference Dinner
+  - title: Organization
+    submenu:
+      - page: Organization Committee
+        url: ./#committees
+      - page: Program Committee
+        url: ./#pc
+      - page: Contacts
+        url: ./#contacts
