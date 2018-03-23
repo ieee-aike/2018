@@ -17,7 +17,6 @@ toc:
     submenu:
       - page: Registration
       - page: Accommodation
-        url: ./accommodation
       - page: Travel info
       - page: Visa info
   - title: Program
