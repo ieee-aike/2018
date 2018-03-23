@@ -15,11 +15,11 @@
 		
 
 <li class="nav-item dropdown show">
-	<a class="nav-link dropdown-toggle" href="#" id="dropdown{{ forloop.index }}" data-toggle="dropdown{{ forloop.index }}" aria-haspopup="true" aria-expanded="true">{{ item.title }}</a>
+	<a class="nav-link dropdown-toggle" href="#" id="dropdown{{ forloop.index }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">{{ item.title }}</a>
 	<div class="dropdown-menu " aria-labelledby="dropdown{{ forloop.index }}">
 
 		{% for subitem in item.submenu %}		  
-			<a class="dropdown-item js-scroll-trigger" href="{{ subitem.url }}">{{ subitem.page }}</a>
+			<a class="dropdown-item js-scroll-trigger {% unless subitem.url %}disabled{% endunless %}" href="{{ subitem.url }}">{{ subitem.page }}</a>
 		{% endfor %}
 	</div>
 </li>
