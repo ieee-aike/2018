@@ -16,8 +16,8 @@ toc:
   - title: Attending
     submenu:
       - page: Registration
-      - page: Accomodation
-        url: ./#accomodation
+      - page: Accommodation
+        url: ./accommodation
       - page: Travel info
       - page: Visa info
   - title: Program
