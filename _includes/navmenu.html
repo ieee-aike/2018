@@ -9,7 +9,18 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
 		  
-				
+		  
+{% for item in site.data.menu.toc %}		  
+{% if item.submenu[0] %}
+		  prova
+{% else %}
+
+	<li class="nav-item"> 
+		<a class="nav-link js-scroll-trigger" href="{{ item.url }}">{{ item.title }}</a>
+	</li>
+
+{% endif %}
+				<!--
 				<li class="nav-item dropdown show">
             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Calls</a>
             <div class="dropdown-menu " aria-labelledby="dropdown01">
@@ -58,7 +69,7 @@
 		<a class="dropdown-item js-scroll-trigger" href="./#contacts">Contacts</a>
 	</div>
 </li>
-
+-->
 
 			</ul>
         </div>
