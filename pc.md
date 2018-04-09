@@ -2,73 +2,72 @@
 title: Program Committee
 ---
 
-- *Maurizio Atzori*, University of Cagliari (chair)
-- *Adina M. Panchea*, LIX*, Cosynus team*, Ecole Polytechnique (chair)
-- *Lubomir Stanchev*, Cal Poly (chair)
-- *Abhijin Adiga*, Biocomplexity Institute of Virginia Tech 
-- *Amparo Alonso-Betanzos*, University of A Coruña 
-- *Martin Atzmueller*, Tilburg University 
-- *Elena Baralis*, Politecnico di Torino 
-- *Rohan Baxter*, ATO 
-- *Rajmonda Caceres*, Massachusetts Institute of Technology 
-- *Stefano Ceri*, Politecnico di Milano 
-- *Keith C.C. Chan*, The Hong Kong Polytechnic University 
-- *Alexandre Chapoutot*, ENSTA ParisTech 
-- *Abon Chaudhuri*, WalmartLabs 
-- *Muhao Chen*, University of California*, Los Angeles 
-- *Ming-Syan Chen*, National Taiwan University 
-- *Xueqi Cheng*, Institute of Computing Technology*, CAS*, P. R. China 
-- *Alfredo Cuzzocrea*, ICAR-CNR and University of Calabria 
-- *Ernesto Damiani*, University of Padova 
-- *Ayhan Demiriz*, Gebze Technical University 
-- *Cheng Deng*, Xidian University 
-- *Anne Denton*, North Dakota State University 
-- *Josep Domingo-Ferrer*, Universitat Rovira i Virgili 
-- *Bo Du*, Wuhan University 
-- *Francois Ferland*, Université de Sherbrooke 
+- *Maurizio Atzori*, University of Cagliari, Italy (chair)
+- *Adina M. Panchea*, LIX*, Cosynus team*, Ecole Polytechnique, France (chair)
+- *Lubomir Stanchev*, Cal Poly, USA (chair)
+- *Abhijin Adiga*, Biocomplexity Institute of Virginia Tech, USA 
+- *Amparo Alonso-Betanzos*, University of A Coruña, Spain 
+- *Martin Atzmueller*, Tilburg University, Netherlands 
+- *Elena Baralis*, Politecnico di Torino, Italy 
+- *Rohan Baxter*, ATO, Australia 
+- *Rajmonda Caceres*, Massachusetts Institute of Technology, USA 
+- *Stefano Ceri*, Politecnico di Milano, Italy 
+- *Keith C.C. Chan*, The Hong Kong Polytechnic University, China 
+- *Alexandre Chapoutot*, ENSTA ParisTech, France 
+- *Abon Chaudhuri*, WalmartLabs, USA 
+- *Muhao Chen*, University of California*, Los Angeles, USA 
+- *Ming-Syan Chen*, National Taiwan University, Taiwan 
+- *Xueqi Cheng*, Institute of Computing Technology*, CAS*, China 
+- *Alfredo Cuzzocrea*, ICAR-CNR and University of Calabria, Italy 
+- *Ernesto Damiani*, University of Padova, Italy 
+- *Ayhan Demiriz*, Gebze Technical University, Turkey 
+- *Cheng Deng*, Xidian University, China 
+- *Anne Denton*, North Dakota State University, USA 
+- *Josep Domingo-Ferrer*, Universitat Rovira i Virgili, Italy 
+- *Bo Du*, Wuhan University, China 
+- *Francois Ferland*, Université de Sherbrooke, Canada 
 - *Matjaz Gams*, Jozef Stefan Institute*, Jamova 39*, Ljubljana*, Slovenia 
-- *Chen Gong*, Shanghai Jiao Tong University 
-- *Patrick Henaff*, LORIA UMR 7503*, University of Lorraine*, INRIA,CNRS 
-- *Matteo Interlandi*, Microsoft 
-- *Minhao Jiang*, The Hong Kong University of Science and Technology 
-- *Jaap Kamps*, University of Amsterdam 
-- *Kristian Kersting*, TU Darmstadt 
-- *Franz Kurfess*, Cal Poly SLO 
-- *Anne Laurent*, LIRMM - *UM 
-- *Maurizio Lenzerini*, Università di Roma "La Sapienza" 
-- *Yaliang Li*, Tencent Medical AI Lab 
-- *Yan Li*, University of Michigan 
-- *Shuai Li*, University of Cambridge 
-- *Stijn Luca*, Katholieke Universiteit Leuven 
-- *Simone Ludwig*, North Dakota State University 
-- *Brad Malin*, Vanderbilt University 
-- *Brandeis Marshall*, Spelman College 
-- *Elio Masciari*, ICAR-CNR 
-- *Florent Masseglia*, INRIA 
-- *Mirjana Mazuran*, Politecnico di Milano 
-- *Giuseppe M. Mazzeo*, Facebook 
-- *Pasquale Minervini*, University College London 
-- *Mirco Nanni*, KDD-Lab ISTI-CNR Pisa 
-- *Ion Necoara*, Politehnica University Bucharest 
-- *Severus Constantin Olteanu*, University of Lille 1 
-- *Andrei Patrascu*, University of Bucharest 
-- *Rasmus Pedersen*, Copenhagen Business School 
-- *Barbara Pes*, Università degli Studi di Cagliari*, Dipartimento di Matematica e Informatica 
-- *Hai Phan*, New Jersey Institute of Technology 
-- *Gianvito Pio*, University of Bari "Aldo Moro" 
-- *Lorenza Saitta*, Universita del Piemonte Orientale 
-- *Stefan Schwab*, Karlsruhe Institute of Technology 
-- *Pavel Senin*, Los Alamos National Laboratory 
-- *Phillip Sheu*, University of california 
-- *Dan Simovici*, University of Massachusetts Boston 
-- *Dongjin Song*, NEC Labs America 
-- *Lini Thomas*, IIIT Hyderabad 
-- *Jason Wang*, New Jersey Institute of Technology 
-- *Keli Xiao*, Stony Brook University 
-- *Chang Xu*, The University of Sydney 
-- *Yibo Yao*, Washington State University 
-- *Hongzhi Yin*, The University of Queensland 
-- *Philip Yu*, University of Illinois at Chicago 
-- *Carlo Zaniolo*, University of California*, Los Angeles 
-- *Kun Zhang*, Xavier University of Louisiana 
-- *Xingquan Zhu*, Florida Atlantic University 
+- *Chen Gong*, Shanghai Jiao Tong University, China 
+- *Patrick Henaff*, LORIA UMR 7503*, University of Lorraine*, INRIA,CNRS, France 
+- *Matteo Interlandi*, Microsoft, USA 
+- *Minhao Jiang*, The Hong Kong University of Science and Technology, China 
+- *Jaap Kamps*, University of Amsterdam, Netherlands 
+- *Kristian Kersting*, TU Darmstadt, Germany 
+- *Franz Kurfess*, Cal Poly SLO, USA 
+- *Anne Laurent*, LIRMM - *UM, France 
+- *Maurizio Lenzerini*, Università di Roma "La Sapienza", Italy 
+- *Yaliang Li*, Tencent Medical AI Lab, USA 
+- *Yan Li*, University of Michigan , USA
+- *Shuai Li*, University of Cambridge, USA 
+- *Stijn Luca*, Katholieke Universiteit Leuven, Belgium 
+- *Simone Ludwig*, North Dakota State University, USA 
+- *Brad Malin*, Vanderbilt University, USA 
+- *Brandeis Marshall*, Spelman College, USA 
+- *Elio Masciari*, ICAR-CNR, Italy 
+- *Florent Masseglia*, INRIA, France 
+- *Mirjana Mazuran*, Politecnico di Milano, Italy 
+- *Giuseppe M. Mazzeo*, Facebook, USA 
+- *Pasquale Minervini*, University College London, UK 
+- *Mirco Nanni*, KDD-Lab ISTI-CNR Pisa, Italy 
+- *Ion Necoara*, Politehnica University Bucharest, Romania 
+- *Severus Constantin Olteanu*, University of Lille 1, Spain 
+- *Andrei Patrascu*, University of Bucharest, Romania  
+- *Rasmus Pedersen*, Copenhagen Business School, Sweden 
+- *Barbara Pes*, Università degli Studi di Cagliari*, Dipartimento di Matematica e Informatica, Italy 
+- *Hai Phan*, New Jersey Institute of Technology, USA 
+- *Gianvito Pio*, University of Bari "Aldo Moro", Italy 
+- *Lorenza Saitta*, Universita del Piemonte Orientale, Italy 
+- *Stefan Schwab*, Karlsruhe Institute of Technology, Germany 
+- *Pavel Senin*, Los Alamos National Laboratory, USA 
+- *Dan Simovici*, University of Massachusetts Boston, USA 
+- *Dongjin Song*, NEC Labs America, USA 
+- *Lini Thomas*, IIIT Hyderabad, India 
+- *Jason Wang*, New Jersey Institute of Technology, USA 
+- *Keli Xiao*, Stony Brook University, USA 
+- *Chang Xu*, The University of Sydney, Australia 
+- *Yibo Yao*, Washington State University, USA 
+- *Hongzhi Yin*, The University of Queensland, Australia 
+- *Philip Yu*, University of Illinois at Chicago, USA 
+- *Carlo Zaniolo*, University of California*, Los Angeles, USA 
+- *Kun Zhang*, Xavier University of Louisiana, USA 
+- *Xingquan Zhu*, Florida Atlantic University, USA 
