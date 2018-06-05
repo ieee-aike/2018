@@ -16,7 +16,10 @@ toc:
   - title: Attending
     submenu:
       - page: Registration
+      - page: Venue
+        url: http://www.thelagunahillshotel.com/en-us
       - page: Accommodation
+        url: http://www.ascendcollection.com/ires/en-US/html/ArrivalInfo?hotel=CAD23&srp=LIEEE&pu=no
       - page: Travel info
       - page: Visa info
   - title: Program
