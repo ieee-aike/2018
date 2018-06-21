@@ -19,7 +19,7 @@ Professor Ramamoorthy was also an outstanding educator whose work has contribute
 
 The IEEE AIKE conference presents the C.V. Ramamoorthy Award annually to a researcher based on the following criteria: significance of achievements in AI and/or KE, originality, impact on society, publications, and patents related to the achievements. The award consists of a bronze medal, a certificate, and an honorarium of USD$2,000.
 
-Nominations for the C.V. Ramamoorthy Award should be submitted to aike@uci.edu by April 15 of each year, and the recipient will be announced on May 5, the birthday of Professor Ramamoorthy. (A delay is expected in 2018 due to the late start of the conference.)
+Nominations for the C.V. Ramamoorthy Award should be submitted to aike@uci.edu by April 15 of each year, and the recipient will be announced on May 5, the birthday of Professor Ramamoorthy. A delay is expected in 2018 due to the late start of the conference.
 
 ### 2018 C.V. Ramamoorthy Award Committee (Tentative)
 - Farokh Bastani, University of Texas, Dallas, USA 
