@@ -23,23 +23,16 @@ Nominations for the C.V. Ramamoorthy Award should be submitted to aike@uci.edu b
 
 ### 2018 C.V. Ramamoorthy Award Committee (Tentative)
 - Farokh Bastani, University of Texas, Dallas, USA 
-- Bharat Bhargava, Purdue University, USA 
-- Nik Bourbakis, Wright State University, USA 
-- Mani Chandy, California Institute of Technology, USA  
+- Bharat Bhargava, Purdue University, USA   
 - Wen-Tsuen Chen, National Tsing Hua University, Taiwan (CHAIR)  
-- Atila Ertas, Texas Tech University, USA  
+- Atila Ertas, Texas Tech University, USA
 - Oscar Garcia, University of North Texas, USA  
 - Arif Ghafoor, Purdue University, USA  
-- Raymond Paul, DoD, USA (ret)  
 - Atul Prakash, University of Michigan, USA  
 - Shashi Shekhar, University of Minnesota, USA  
 - Phillip Sheu, University of California, Irvine, USA  
-- Murat Tanik, University of Alabama, USA  
-- Bhavani Thuraisingham, University of Texas, Dallas, USA  
-- Jeffrey J.P. Tsai, Asia University, Taiwan  
+- Murat Tanik, University of Alabama, USA   
 - Murali Varanasi, University of North Texas, USA  
-- Benjamin Wah, Chinese University of Hong Kong, China  
-- Belle Wei, San Jose State University, USA  
-- Hiroshi Yamaguchi, Chuo University, Japan  
-- Raymond Yeh, IC2 Institute, The University of Texas, Austin, USA
+- Benjamin Wah, Chinese University of Hong Kong, China   
+
 
