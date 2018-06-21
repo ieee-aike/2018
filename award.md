@@ -21,7 +21,7 @@ The IEEE AIKE conference presents the C.V. Ramamoorthy Award annually to a resea
 
 Nominations for the C.V. Ramamoorthy Award should be submitted to aike@uci.edu by April 15 of each year, and the recipient will be announced on May 5, the birthday of Professor Ramamoorthy. A delay is expected in 2018 due to the late start of the conference.
 
-### 2018 C.V. Ramamoorthy Award Committee (Tentative)
+### 2018 C.V. Ramamoorthy Award Committee
 - Farokh Bastani, University of Texas, Dallas, USA 
 - Bharat Bhargava, Purdue University, USA   
 - Wen-Tsuen Chen, National Tsing Hua University, Taiwan (CHAIR)  
