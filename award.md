@@ -17,7 +17,7 @@ He then joined the University of Texas, Austin, as a Professor of Electrical Eng
 
 Professor Ramamoorthy was also an outstanding educator whose work has contributed significantly to several aspects of engineering, computer science, and software engineering. He supervised 73 Ph.D. students and he greatly mentored each of his students. Together with Raymond T. Yeh, he is given credit for the early establishment of the discipline of software engineering, the largest of all the engineering disciplines. He was an important figure in the development of computing technology, and was always looking forward to the future. He had a large following worldwide with whom he actively collaborated until the last few months of his life.
 
-The IEEE AIKE conference presents the C.V. Ramamoorthy Award annually to a researcher who makes significant contributions to artificial intelligence and knowledge engineering. The award consists of a bronze medal, a certificate, and an honorarium of USD$2,000.
+The IEEE AIKE conference presents the C.V. Ramamoorthy Award annually to a researcher based on the following criteria: significance of achievements in AI and/or KE, originality, impact on society, publications, and patents related to the achievements. The award consists of a bronze medal, a certificate, and an honorarium of USD$2,000.
 
 Nominations for the C.V. Ramamoorthy Award should be submitted to aike@uci.edu by April 15 of each year, and the recipient will be announced on May 5, the birthday of Professor Ramamoorthy. (A delay is expected in 2018 due to the late start of the conference.)
 
