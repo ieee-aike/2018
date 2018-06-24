@@ -5,6 +5,8 @@ toc:
         url: ./#cfp
       - page: Call for Workshops
         url: ./workshops#call
+      - page: Joint Workshops
+        url: ./joint_workshops
       - page: Topics
         url: ./#topics
       - page: Important Dates
