@@ -5,8 +5,6 @@ toc:
         url: ./#cfp
       - page: Call for Workshops
         url: ./workshops#call
-      - page: Joint Workshops
-        url: ./joint_workshops
       - page: Topics
         url: ./#topics
       - page: Important Dates
@@ -28,6 +26,8 @@ toc:
     submenu:
       - page: Keynote Speakers
         url: ./#keynotes
+      - page: Joint Workshops
+        url: ./joint_workshops
       - page: Accepted Papers
       - page: Timetable
       - page: Welcome Reception
