@@ -13,6 +13,6 @@ This workshop focuses on the use of Artificial Intelligence and deep learning to
 ### [First International Workshop on Humans to Robots and Back (HRoBa 2018)](https://hroba.github.io/CfP.pdf)
 This workshop aims at bringing together scientists from di˙erent areas (human-robot interaction, artificial intelligence and machine learning, assistive and rehabilitation robotics, robotic systems design, field robotics, wearable robotics, biomedical and clinical domains, etc.) which have, as research interest, a deeper understanding of humans to propose solutions which (i)	can be used by robots to safely interact, assist and cooperate with humans, or (ii)	can help at developing solutions adapted to human needs.
 
-### [First International Workshop on Artificial Intelligence for 3D Bigdata Processing (ABC 2018)](http://dblab.dankook.ac.kr/abc2018/)
+### [First International Workshop on AI Bigdata Cloud Technologies (ABC 2018)](http://dblab.dankook.ac.kr/abc2018/)
 This workshop will practically show how AI, bigdata and cloud technologies can be combined
 together to provide useful knowledge and insights for better decision making in various areas.
