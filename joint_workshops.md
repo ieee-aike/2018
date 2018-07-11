@@ -17,5 +17,6 @@ This workshop aims at bringing together scientists from di˙erent areas (human-r
 This workshop will practically show how AI, bigdata and cloud technologies can be combined
 together to provide useful knowledge and insights for better decision making in various areas.
 
-### [First International Workshop on Intelligence & Interaction in Knowledge Engineering (IIKE 2018)](https://www.scss.tcd.ie/~debruync/IIKE2018/)
+### [First International Workshop on Intelligence & Interaction in Knowledge Engineering (IIKE 2018)]
+(http://iike.adaptcentre.ie/)
 This workshop aims to bring researchers interested in interactive and explainable intelligent models, theories, and techniques that facilitate and accelerate research in all aspects of knowledge engineering for intelligent systems to exchange ideas, approaches, results, and cross-disciplinary collaboration.
