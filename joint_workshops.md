@@ -19,3 +19,6 @@ together to provide useful knowledge and insights for better decision making in 
 
 ### [First International Workshop on Intelligence & Interaction in Knowledge Engineering (IIKE 2018)](http://iike.adaptcentre.ie/)
 This workshop aims to bring researchers interested in interactive and explainable intelligent models, theories, and techniques that facilitate and accelerate research in all aspects of knowledge engineering for intelligent systems to exchange ideas, approaches, results, and cross-disciplinary collaboration.
+
+### [Seventh International Workshop on Intelligent Data Processing (IDP 2018)](https://www.comp.hkbu.edu.hk/~csyxli/IDP2018/)
+Artificial intelligence and intelligent systems offer efficient mechanisms that can significantly reduce the costs of processing large volume data and improve data processing quality. Participants are invited to submit papers in all areas of data- and knowledge-based approaches, particularly in the areas of Big Data and Online Social Networks.
