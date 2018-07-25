@@ -31,7 +31,8 @@ Nominations for the C.V. Ramamoorthy Award should be submitted to aike@uci.edu b
 - Atul Prakash, University of Michigan, USA  
 - Shashi Shekhar, University of Minnesota, USA  
 - Phillip Sheu, University of California, Irvine, USA  
-- Murat Tanik, University of Alabama, Birmingham, USA   
+- Murat Tanik, University of Alabama, Birmingham, USA  
+- Jeffrey Tsai, Asia University, Taiwan
 - Murali Varanasi, University of North Texas, USA  
 - Benjamin Wah, Chinese University of Hong Kong, China   
 
