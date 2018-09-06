@@ -26,6 +26,8 @@ toc:
         url: ./#contacts
   - title: Program
     submenu:
+      - page: Detailed Conference Program
+        url: https://goo.gl/4pW5EM
       - page: Keynote Speakers
         url: ./#keynotes
       - page: Joint Workshops
