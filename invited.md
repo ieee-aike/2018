@@ -8,19 +8,45 @@ title: Keynotes and Distinguished Tutorials
 <br/>
 
 ## Synergies of AI and Knowledge Engineering for Healthcare & Biomedicine
-### Nikolaos Bourbakis - Wright State University, USA
+#### Nikolaos Bourbakis - Wright State University, USA
 
 <hr>
 
 <!-- ------------------------------- -->
 
-<div class="text-center">
-  <img class="mx-auto rounded" src="img/Conoval_Paul4_2017small.jpg"/>
+<div class="row">
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img class="mx-auto rounded" 
+                  src="img/Conoval_Paul4_2017small.jpg" 
+                  style="width:50%;"/>
+            </div>
+          </div>
 </div>
 <br/>
 
 ## TBA
-### Paul Conoval - Northrop Grumman Corporation, Virginia, USA
+#### Paul Conoval - Northrop Grumman Corporation, Virginia, USA
+
 
 <hr>
 
+
+<!-- ------------------------------- -->
+
+<div class="row">
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img class="mx-auto rounded" 
+                  src="http://people.cs.georgetown.edu/~ophir/images/frieder-2016.jpg" 
+                  style="width:50%;"/>
+            </div>
+          </div>
+</div>
+<br/>
+
+## Computing Medicine
+#### Ophir Frieder - Georgetown University, USA
+
+
+<hr>
