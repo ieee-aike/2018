@@ -14,12 +14,25 @@ title: Keynotes and Distinguished Tutorials
 
 <!-- ------------------------------- -->
 
+<!--
 <div class="row">
           <div class="col-lg-12 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <img class="mx-auto rounded" 
                   src="img/Conoval_Paul4_2017small.jpg" 
                   style="width:50%;"/>
+            </div>
+          </div>
+</div>
+<br/>
+-->
+
+<div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img class="mx-auto rounded" 
+                  src="img/Conoval_Paul4_2017small.jpg"
+                  style="width:100%;"/>
             </div>
           </div>
 </div>
@@ -39,7 +52,7 @@ title: Keynotes and Distinguished Tutorials
             <div class="service-box mt-5 mx-auto">
               <img class="mx-auto rounded" 
                   src="http://people.cs.georgetown.edu/~ophir/images/frieder-2016.jpg" 
-                  style="width:50%;"/>
+                  style="width:100%;"/>
             </div>
           </div>
 </div>
