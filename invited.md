@@ -86,18 +86,6 @@ ICTAI Outstanding  Service  &  Leadership Recognition, 2016 and others.
 ## Computing Medicine
 #### Ophir Frieder - Georgetown University, USA
 
-<hr> <!-- ------------------------------- -->
-
-<div class="row justify-content-center">
-          <div class="col-lg-4 col-md-6 text-center">
-            <div class="service-box mt-5 mx-auto">
-              <img class="mx-auto rounded" 
-                  src="img/Sang-goo_Lee2.jpg" 
-                  style="width:100%;"/>
-            </div>
-          </div>
-</div>
-<br/>
 
 <b>Abstract:</b> Computing continues to change the landscape of nearly all 
 domains, medicine included.  For instance, drug resistance is predicted 
@@ -127,6 +115,20 @@ Science and Technology at the Italian National Research Council
 (ISTI-CNR). He is a Fellow of the AAAS, ACM, IEEE, and NAI, and a Member 
 of the European Academy of Sciences and Arts. 
 
+
+
+<hr> <!-- ------------------------------- -->
+
+<div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img class="mx-auto rounded" 
+                  src="img/Sang-goo_Lee2.jpg" 
+                  style="width:100%;"/>
+            </div>
+          </div>
+</div>
+<br/>
 
 ## Bringing AI into Fashion
 #### Sang-goo Lee - Seoul National University (SNU), South Korea
