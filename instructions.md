@@ -6,26 +6,26 @@ The following presentation instructions are applied to all accepted full papers,
 poster papers, special session papers, and workshop papers. All authors please follow the
 corresponding instructions to prepare the presentation for your papers.
 
-##Full papers
+## Full papers
 - Each full paper, including the best paper candidates in the best paper session, and general
 full paper sessions, will be presented in an oral presentation.
 - Each presentation will be allotted totally 20 minutes, including 5 minutes for Q&amp;A.
 
-##Short papers
+## Short papers
 - Each short paper will be presented in an oral presentation.
 - Each presentation will be allotted totally 15 minutes, including 3 minutes for Q&amp;A.
 
-##Poster papers
+## Poster papers
 - Each poster paper will be presented in a poster.
 - One poster session will be allotted totally 80 minutes, including the time for setup. We
 suggest the authors prepare their posters the morning of their presentation, so they will be
 visible all day long.
 
-###Workshop papers
+### Workshop papers
 - Each workshop paper will be presented in an oral presentation.
 - Each presentation will be allotted totally 15 minutes including 3 minutes for Q&amp;A.
 
-##Information for oral presentations
+## Information for oral presentations
 - All oral session rooms are equipped with data projectors with a standard VGA connector. We
 encourage speakers to bring and use their own laptops or other presentation devices. Please
 check the compatibility of your laptop and the project before the session starts. If you plan to
