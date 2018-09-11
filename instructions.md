@@ -51,5 +51,5 @@ other time slot you can freely wander around to see the other posters.
 - Since the poster presentations will take place in an open space area, we suggest the authors
 prepare their posters in the morning of their presentation, so they will be visible all day
 long.
-- You are encouraged to prepare handouts of your poster for attendees.
+- You are encouraged to prepare handouts of your poster for attendee.
 
