@@ -21,7 +21,8 @@ toc:
         url: http://www.thelagunahillshotel.com/en-us
       - page: Accomodation
         url: http://www.ascendcollection.com/ires/en-US/html/ArrivalInfo?hotel=CAD23&srp=LIEEE&pu=no
-      - page: Travel info
+      - page: Presentation Instructions
+        url: ./instructions
       - page: Visa Application
         url: ./#contacts
   - title: Program
@@ -33,7 +34,6 @@ toc:
       - page: Joint Workshops
         url: ./joint_workshops
       - page: Accepted Papers
-      - page: Timetable
       - page: Welcome Reception
       - page: Conference Dinner
   - title: Organization
