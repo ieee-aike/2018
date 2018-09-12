@@ -37,7 +37,7 @@ chair to confirm the title and presenter information of your paper.
 - Time will be strictly enforced by session chairs and all the presenters are expected to make
 sure that their presentations fit strictly within the time limit and that the switching to
 another presentation is done during the Q&amp;A.
-- If special equipment is required, please contact the local arrangement chair (aike@uci.edu) in advance.
+- If special equipment is required, please contact the local arrangement chair (George Wang, twang@csun.edu) in advance.
 - Please make sure that presentations would also work if the free wireless connection is
 limited or not available.
 
