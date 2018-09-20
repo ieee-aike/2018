@@ -66,7 +66,7 @@ ICTAI Outstanding  Service  &  Leadership Recognition, 2016 and others.
 </div>
 <br/>
 
-## TBA
+## Integrating Artificial Intelligence Capabilities into Deployable Systems
 #### Paul Conoval - Northrop Grumman Corporation, Virginia, USA
 
 
