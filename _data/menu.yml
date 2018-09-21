@@ -17,6 +17,8 @@ toc:
     submenu:
       - page: Registration
         url: http://45mins.org/registration/registration.jsp
+      - page: Presentation Instructions
+        url: ./instructions
       - page: Venue Info
         url: http://www.thelagunahillshotel.com/en-us
       - page: Accomodation
